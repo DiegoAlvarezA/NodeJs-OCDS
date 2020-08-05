@@ -21,7 +21,7 @@
     "dayjs": "^1.8.26",
     "deep-diff": "^1.0.2",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-mongo-sanitize": "^2.0.0",
     "express-session": "^1.17.0",
     "express-slow-down": "^1.3.1",
