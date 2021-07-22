@@ -37,7 +37,7 @@
     "passport-local": "^1.0.0",
     "rate-limiter-flexible": "^2.1.4",
     "regex": "^0.1.1",
-    "xlsx": "^0.15.5",
+    "xlsx": "^0.17.0",
     "xss-clean": "^0.1.1"
   },
   "devDependencies": {
